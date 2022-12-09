@@ -1,0 +1,386 @@
+[
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [
+          107.58323658758462,
+          -6.888610701181804
+        ],
+        [
+          107.58322107285642,
+          -6.8886856986857055
+        ],
+        [
+          107.5833739690575,
+          -6.888711097288152
+        ],
+        [
+          107.58339147031415,
+          -6.888638059324464
+        ],
+        [
+          107.58323658758462,
+          -6.888610701181804
+        ]
+      ]]
+    },
+    "properties": {
+      "name": "OYO 2265 Bunga Bakung Residence",
+        "amenity": "College",
+        "popupContent": "TEMPAT BOBO ",
+        "style": {
+            "weight": 2,
+            "color": "#999",
+            "opacity": 1,
+            "fillColor": "#B0DE5C",
+            "fillOpacity": 0.8
+        }
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [ [
+        [
+          107.58264096234757,
+          -6.889698201614138
+        ],
+        [
+          107.58261879691662,
+          -6.889823914686758
+        ],
+        [
+          107.58269659028434,
+          -6.8898331737513985
+        ],
+        [
+          107.5827305946749,
+          -6.889698201614138
+        ],
+        [
+          107.58264096234757,
+          -6.889698201614138
+        ]
+      ]]
+    },
+    "properties": {
+      "name": "OYO 1608 Feby Maisonatte",
+        "amenity": "College",
+        "popupContent": "TEMPAT BOBO",
+        "style": {
+            "weight": 2,
+            "color": "#999",
+            "opacity": 1,
+            "fillColor": "#B0DE5C",
+            "fillOpacity": 0.8
+        }
+    }
+    
+  }
+  ,
+  
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [   [
+        [
+          107.58496791536419,
+          -6.886955497026165
+        ],
+        [
+          107.58496340218022,
+          -6.887171384813726
+        ],
+        [
+          107.58513511623511,
+          -6.887181684038637
+        ],
+        [
+          107.58512757362018,
+          -6.886953465529416
+        ],
+        [
+          107.58496791536419,
+          -6.886955497026165
+        ]
+      ]]
+    },
+    "properties": {
+      "name": "OYO 196 Horizone Residence",
+        "amenity": "College",
+        "popupContent": "TEMPAT BOBO ",
+        "style": {
+            "weight": 2,
+            "color": "#999",
+            "opacity": 1,
+            "fillColor": "#B0DE5C",
+            "fillOpacity": 0.8
+        }
+    }
+    
+  }
+  ,
+  
+  
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [  [
+        [
+          107.58197708311542,
+          -6.8878455583019615
+        ],
+        [
+          107.58192461453427,
+          -6.887977010764274
+        ],
+        [
+          107.58199572794382,
+          -6.887984267626933
+        ],
+        [
+          107.582056032467,
+          -6.887874126319119
+        ],
+        [
+          107.58197708311542,
+          -6.8878455583019615
+        ]
+      ]]
+    },
+    "properties": {
+      "name": "OYO Teratai Residence",
+        "amenity": "College",
+        "popupContent": "Tempat belajar nya sekolah pokasi",
+        "style": {
+            "weight": 2,
+            "color": "#999",
+            "opacity": 1,
+            "fillColor": "#B0DE5C",
+            "fillOpacity": 0.8
+        }
+    }
+    
+  },
+  
+  
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [     [
+        [
+          107.58197708311542,
+          -6.8878455583019615
+        ],
+        [
+          107.58192461453427,
+          -6.887977010764274
+        ],
+        [
+          107.58199572794382,
+          -6.887984267626933
+        ],
+        [
+          107.582056032467,
+          -6.887874126319119
+        ],
+        [
+          107.58197708311542,
+          -6.8878455583019615
+        ]
+      ]]
+    },
+    "properties": {
+      "name": "OYO 2385 Maleo Exclusive Residence 2",
+        "amenity": "College",
+        "popupContent": "Tempat belajar nya sekolah pokasi",
+        "style": {
+            "weight": 2,
+            "color": "#999",
+            "opacity": 1,
+            "fillColor": "#B0DE5C",
+            "fillOpacity": 0.8
+        }
+    }
+    
+  },
+  
+  
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [   [
+        [
+          107.58496791536419,
+          -6.886955497026165
+        ],
+        [
+          107.58496340218022,
+          -6.887171384813726
+        ],
+        [
+          107.58513511623511,
+          -6.887181684038637
+        ],
+        [
+          107.58512757362018,
+          -6.886953465529416
+        ],
+        [
+          107.58496791536419,
+          -6.886955497026165
+        ]
+      ]]
+    },
+    "properties": {
+      "name": "KOSONG",
+        "amenity": "College",
+        "popupContent": "Tempat belajar nya sekolah pokasi",
+        "style": {
+            "weight": 2,
+            "color": "#999",
+            "opacity": 1,
+            "fillColor": "#B0DE5C",
+            "fillOpacity": 0.8
+        }
+    }
+    
+  },
+  
+  
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [   [
+        [
+          107.58496791536419,
+          -6.886955497026165
+        ],
+        [
+          107.58496340218022,
+          -6.887171384813726
+        ],
+        [
+          107.58513511623511,
+          -6.887181684038637
+        ],
+        [
+          107.58512757362018,
+          -6.886953465529416
+        ],
+        [
+          107.58496791536419,
+          -6.886955497026165
+        ]
+      ]]
+    },
+    "properties": {
+      "name": "KSOOSN",
+        "amenity": "College",
+        "popupContent": "Tempat belajar nya sekolah pokasi",
+        "style": {
+            "weight": 2,
+            "color": "#999",
+            "opacity": 1,
+            "fillColor": "#B0DE5C",
+            "fillOpacity": 0.8
+        }
+    }
+    
+  },
+  
+  
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [   [
+        [
+          107.58496791536419,
+          -6.886955497026165
+        ],
+        [
+          107.58496340218022,
+          -6.887171384813726
+        ],
+        [
+          107.58513511623511,
+          -6.887181684038637
+        ],
+        [
+          107.58512757362018,
+          -6.886953465529416
+        ],
+        [
+          107.58496791536419,
+          -6.886955497026165
+        ]
+      ]]
+    },
+    "properties": {
+      "name": "KOSOSNG",
+        "amenity": "College",
+        "popupContent": "Tempat belajar nya sekolah pokasi",
+        "style": {
+            "weight": 2,
+            "color": "#999",
+            "opacity": 1,
+            "fillColor": "#B0DE5C",
+            "fillOpacity": 0.8
+        }
+    }
+    
+  },
+  
+  
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [   [
+        [
+          107.58496791536419,
+          -6.886955497026165
+        ],
+        [
+          107.58496340218022,
+          -6.887171384813726
+        ],
+        [
+          107.58513511623511,
+          -6.887181684038637
+        ],
+        [
+          107.58512757362018,
+          -6.886953465529416
+        ],
+        [
+          107.58496791536419,
+          -6.886955497026165
+        ]
+      ]]
+    },
+    "properties": {
+      "name": "KOSONG",
+        "amenity": "College",
+        "popupContent": "Tempat belajar nya sekolah pokasi",
+        "style": {
+            "weight": 2,
+            "color": "#999",
+            "opacity": 1,
+            "fillColor": "#B0DE5C",
+            "fillOpacity": 0.8
+        }
+    }
+    
+  }
+]
